@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            Your App Name
+            SB Url Shortner
           </Title>
 
           <Text
