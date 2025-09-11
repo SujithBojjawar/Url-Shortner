@@ -1,4 +1,4 @@
-# 🚀 create-bz-mern-app
+# 🚀 create-Url-Shortner-mern-app
 
 [![npm version](https://img.shields.io/npm/v/create-bz-mern-app.svg)](https://www.npmjs.com/package/create-bz-mern-app)
 [![npm downloads](https://img.shields.io/npm/dm/create-bz-mern-app.svg)](https://www.npmjs.com/package/create-bz-mern-app)
